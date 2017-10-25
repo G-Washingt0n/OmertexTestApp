@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Omertex</string>
+    <string name="Button_text">View list</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+</resources>
